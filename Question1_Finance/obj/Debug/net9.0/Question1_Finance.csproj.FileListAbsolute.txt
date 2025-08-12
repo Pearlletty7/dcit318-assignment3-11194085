@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\bin\Debug\net9.0\Question1_Finance.exe
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\bin\Debug\net9.0\Question1_Finance.deps.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\bin\Debug\net9.0\Question1_Finance.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\bin\Debug\net9.0\Question1_Finance.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\bin\Debug\net9.0\Question1_Finance.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\refint\Question1_Finance.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\Question1_Finance.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question1_Finance\obj\Debug\net9.0\ref\Question1_Finance.dll
