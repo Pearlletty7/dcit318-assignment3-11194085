@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question2_Healthcare/1.0.0": {
+        "runtime": {
+          "Question2_Healthcare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question2_Healthcare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

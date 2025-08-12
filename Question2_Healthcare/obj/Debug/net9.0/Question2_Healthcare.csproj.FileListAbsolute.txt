@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\bin\Debug\net9.0\Question2_Healthcare.exe
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\bin\Debug\net9.0\Question2_Healthcare.deps.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\bin\Debug\net9.0\Question2_Healthcare.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\bin\Debug\net9.0\Question2_Healthcare.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\bin\Debug\net9.0\Question2_Healthcare.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\refint\Question2_Healthcare.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\Question2_Healthcare.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question2_Healthcare\obj\Debug\net9.0\ref\Question2_Healthcare.dll
