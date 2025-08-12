@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\bin\Debug\net9.0\Question5_Inventory.exe
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\bin\Debug\net9.0\Question5_Inventory.deps.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\bin\Debug\net9.0\Question5_Inventory.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\bin\Debug\net9.0\Question5_Inventory.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\bin\Debug\net9.0\Question5_Inventory.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\refint\Question5_Inventory.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\Question5_Inventory.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question5_inventory\obj\Debug\net9.0\ref\Question5_Inventory.dll
