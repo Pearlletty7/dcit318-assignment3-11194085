@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\bin\Debug\net9.0\Question3_Warehouse.exe
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\bin\Debug\net9.0\Question3_Warehouse.deps.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\bin\Debug\net9.0\Question3_Warehouse.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\bin\Debug\net9.0\Question3_Warehouse.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\bin\Debug\net9.0\Question3_Warehouse.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\refint\Question3_Warehouse.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\Question3_Warehouse.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question3_Warehouse\obj\Debug\net9.0\ref\Question3_Warehouse.dll
