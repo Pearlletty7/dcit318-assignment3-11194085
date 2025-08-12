@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\bin\Debug\net9.0\Question4_Grading.exe
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\bin\Debug\net9.0\Question4_Grading.deps.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\bin\Debug\net9.0\Question4_Grading.runtimeconfig.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\bin\Debug\net9.0\Question4_Grading.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\bin\Debug\net9.0\Question4_Grading.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.AssemblyInfo.cs
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.sourcelink.json
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\refint\Question4_Grading.dll
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.pdb
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\Question4_Grading.genruntimeconfig.cache
+C:\Users\USER\Desktop\dcit318-assignment3-11194085\Question4_Grading\obj\Debug\net9.0\ref\Question4_Grading.dll

@@ -1,0 +1,7 @@
+101,Alice Smith,84
+102,Bob Johnson,76
+103,Carol Davis,92
+104,David Brown,58
+105,Emma Wilson,45
+106,Frank Miller,88
+107,Grace Lee,71

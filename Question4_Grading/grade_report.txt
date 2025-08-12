@@ -1,0 +1,18 @@
+=== Student Grade Report ===
+Generated on: 2025-08-12 22:29:08
+Total Students: 7
+
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bob Johnson (ID: 102): Score = 76, Grade = B
+Carol Davis (ID: 103): Score = 92, Grade = A
+David Brown (ID: 104): Score = 58, Grade = D
+Emma Wilson (ID: 105): Score = 45, Grade = F
+Frank Miller (ID: 106): Score = 88, Grade = A
+Grace Lee (ID: 107): Score = 71, Grade = B
+
+=== Grade Distribution ===
+A: 3 students
+B: 2 students
+C: 0 students
+D: 1 students
+F: 1 students
