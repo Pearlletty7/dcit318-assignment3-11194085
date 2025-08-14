@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_inventory\\Question5_Inventory.csproj": {}
+    "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_Inventory\\Question5_Inventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_inventory\\Question5_Inventory.csproj": {
+    "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_Inventory\\Question5_Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_inventory\\Question5_Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_Inventory\\Question5_Inventory.csproj",
         "projectName": "Question5_Inventory",
-        "projectPath": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_inventory\\Question5_Inventory.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_Inventory\\Question5_Inventory.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_inventory\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\dcit318-assignment3-11194085\\Question5_Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
